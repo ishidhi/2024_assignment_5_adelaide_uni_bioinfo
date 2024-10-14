@@ -1,5 +1,11 @@
 ## [unreleased]
 
+## Fixed
+
+- [Removed 'XXXXXXX' bug from line 1 of file](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/48) - fixing high severity bug
+
+## [1.0.0] - 2024-10-14
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
