@@ -2,6 +2,12 @@
 
 ## Fixed
 
+- [Replaced uppercase words to lower case in line 1 of the file](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/49) - fixing low severity bug
+
+## [2.0.0] - 2024-10-14
+
+## Fixed
+
 - [Removed 'XXXXXXX' bug from line 1 of file](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/48) - fixing high severity bug
 
 ## [1.0.0] - 2024-10-14
